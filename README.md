@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d1117,60:1a3a5c,100:58a6ff&height=220&section=header&text=AMEEN%20HASAN&fontSize=60&fontColor=58a6ff&fontAlignY=45&stroke=58a6ff&strokeWidth=2&desc=AI%20ENGINEER%20%7C%20EDUCATOR%20%7C%20RESEARCHER&descAlignY=65&descSize=16&descColor=3fb950" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d1117,60:1a3a5c,100:58a6ff&height=240&section=header&text=AMEEN%20HASAN&fontSize=65&fontColor=58a6ff&fontAlignY=45&stroke=58a6ff&strokeWidth=2&desc=AI%20ENGINEER%20%7C%20EDUCATOR%20%7C%20RESEARCHER&descAlignY=65&descSize=17&descColor=3fb950" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+AI+Engineer+%7C+Qatar+%F0%9F%87%B6%F0%9F%87%A6;%F0%9F%A4%96+RAG+%7C+AI+Agents+%7C+Agentic+AI+%7C+LLMs;%F0%9F%8E%93+Taught+15%2C000%2B+Students+Worldwide;%F0%9F%94%A5+MLOps+%7C+MLflow+%7C+DevOps+%7C+SRE;%F0%9F%8F%97%EF%B8%8F+On-Premise+Solution+Architect;%E2%9C%85+ex-Cisco+%282023%E2%80%932025%29+%C2%B7+ex-Intel+%282021%E2%80%932022%29)](https://github.com/coderameen)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=%E2%9A%A1+AI+Engineer+%7C+Qatar+%F0%9F%87%B6%F0%9F%87%A6;%F0%9F%A4%96+RAG+%7C+AI+Agents+%7C+Agentic+AI+%7C+LLMs;%F0%9F%8E%93+Taught+15%2C000%2B+Students+Worldwide;%F0%9F%94%A5+MLOps+%7C+MLflow+%7C+DevOps+%7C+SRE;%F0%9F%8F%97%EF%B8%8F+On-Premise+Solution+Architect;%E2%9C%85+ex-Cisco+%282023%E2%80%932025%29+%C2%B7+ex-Intel+%282021%E2%80%932022%29)](https://github.com/coderameen)
 
-</div>
+<br/>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=coderameen&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/coderameen?color=3fb950&style=flat-square&logo=github&label=FOLLOWERS)](https://github.com/coderameen)
+![Profile Views](https://komarev.com/ghpvc/?username=coderameen&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/coderameen?color=3fb950&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/coderameen)
+[![GitHub Stars](https://img.shields.io/github/stars/coderameen?color=f78166&style=for-the-badge&logo=github&label=TOTAL+STARS)](https://github.com/coderameen)
 
 </div>
 
@@ -22,29 +20,44 @@
 
 ## ⚡ WHO AM I
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🧠 Identity
-```
-NAME     →  Ameen Hasan
-ALIAS    →  @coderameen
-ROLE     →  AI Engineer
-BASE     →  Qatar 🇶🇦
-STATUS   →  Building the future of AI
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1800&pause=400&color=3FB950&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=220&lines=%24+whoami;%3E+Ameen+Hasan+%7C+@coderameen+%7C+Qatar+%F0%9F%87%B6%F0%9F%87%A6;%24+cat+mission.txt;%3E+Architecting+RAG+%26+Agentic+AI+systems+at+scale;%3E+On-Premise+AI+infrastructure+that+actually+ships;%3E+MLOps+pipelines+from+research+%E2%86%92+production;%3E+Teaching+15%2C000%2B+builders+worldwide;%24+echo+%22Lets+play+code+code..+%F0%9F%98%89%22)](https://github.com/coderameen)
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**`> identity.json`**
+```json
+{
+  "name"     : "Ameen Hasan",
+  "alias"    : "@coderameen",
+  "role"     : "AI Engineer 🤖",
+  "base"     : "Qatar 🇶🇦",
+  "status"   : "🟢 Building in prod",
+  "impact"   : "15,000+ students taught",
+  "motto"    : "Lets play code code 😉"
+}
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 Mission
-```
-→  Architecting RAG & Agentic AI systems
-→  On-Premise AI infrastructure at scale
-→  MLOps pipelines that actually ship
-→  Teaching 15,000+ builders worldwide
-→  Turning research into production
+**`> stack --current`**
+```bash
+# Core weapons
+RAG          ████████████  HOT 🔥
+AI Agents    ████████████  HOT 🔥
+Agentic AI   ███████████░  SHARP ⚡
+LLMs         ███████████░  SHARP ⚡
+MLOps        ██████████░░  SOLID 🛡️
+On-Premise   █████████░░░  SOLID 🛡️
+DevOps/SRE   █████████░░░  SOLID 🛡️
 ```
 
 </td>
@@ -57,28 +70,30 @@ STATUS   →  Building the future of AI
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  🤖  AI ENGINEER          │  Qatar         │  2025 → NOW    ║
-╠══════════════════════════════════════════════════════════════╣
-║  💻  SOFTWARE ENGINEER    │  Cisco         │  2023 → 2025   ║
-╠══════════════════════════════════════════════════════════════╣
-║  🔧  SOFTWARE DEVELOPER   │  Intel         │  2021 → 2022   ║
-╚══════════════════════════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1500&pause=300&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=120&lines=%5B+2025+%E2%86%92+NOW+%5D++%F0%9F%A4%96+AI+ENGINEER++++++++++%7C+Qatar;%5B+2023+%E2%86%92+2025+%5D+%F0%9F%92%BB+SOFTWARE+ENGINEER+++%7C+Cisco;%5B+2021+%E2%86%92+2022+%5D+%F0%9F%94%A7+SOFTWARE+DEVELOPER+%7C+Intel)](https://github.com/coderameen)
 
 </div>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  🤖  AI ENGINEER          │  Qatar 🇶🇦     │  2025 → PRESENT  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  💻  SOFTWARE ENGINEER    │  Cisco          │  2023 → 2025     ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🔧  SOFTWARE DEVELOPER   │  Intel          │  2021 → 2022     ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
 ## 🛠️ TECH ARSENAL
 
-### 🤖 AI · Gen AI · ML
+### 🤖 AI · Gen AI · LLMs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-58A6FF?style=for-the-badge&logo=databricks&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-3FB950?style=for-the-badge&logo=probot&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-9B59B6?style=for-the-badge&logo=ai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-9B59B6?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F78166?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-E3B341?style=for-the-badge&logo=spacy&logoColor=black)
@@ -94,7 +109,7 @@ STATUS   →  Building the future of AI
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 💻 Full Stack · Languages
+### 💻 Full Stack · DSA
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -108,14 +123,14 @@ STATUS   →  Building the future of AI
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderameen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&border_radius=8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderameen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=coderameen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderameen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderameen&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=3fb950&fire=f78166&currStreakLabel=58a6ff&border_radius=8"/>
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=coderameen&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&area=true&hide_border=true&radius=8"/>
 
 </div>
 
@@ -125,9 +140,9 @@ STATUS   →  Building the future of AI
 
 <div align="center">
 
-| 🎓 Students Taught | 📦 Public Repos | 👥 Followers | 🏅 Achievements |
-|:-----------------:|:--------------:|:-----------:|:--------------:|
-| **15,000+** | **32** | **76** | **3 Badges** |
+| 🎓 Students Taught | 📦 Public Repos | 👥 Followers | 🔥 Contributions | 🏅 Badges |
+|:-----------------:|:--------------:|:-----------:|:---------------:|:---------:|
+| **15,000+** | **32** | **76** | **739+** | **3** |
 
 </div>
 
@@ -161,6 +176,6 @@ STATUS   →  Building the future of AI
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:3fb950,100:0d1117&height=120&section=footer&text=%22Lets+play+code+code..+%F0%9F%98%89%22&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:3fb950,100:0d1117&height=130&section=footer&text=%22Lets+play+code+code..+%F0%9F%98%89%22&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
