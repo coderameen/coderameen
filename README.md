@@ -123,13 +123,6 @@ DevOps/SRE   █████████░░░  SOLID 🛡️
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=coderameen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true"/>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderameen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
 <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=coderameen&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&area=true&hide_border=true&radius=8"/>
 
 </div>
